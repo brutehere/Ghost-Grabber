@@ -19,20 +19,6 @@
    <img src="https://repobeats.axiom.co/api/embed/034f9b040ab4cfd1684dcb1e169854101243cd24.svg">
 </p>
 
-## Project Status: Coming to an End (Original) + Community Continuation
-
-**Original Message from Blank-c:**
-
-Dear contributors and users,
-
-I hope this message finds you all well. I wanted to take a moment to share an important update regarding this project.
-
-Over the past year, we've worked together to build and improve this project. It has been an incredible journey, and I'm immensely grateful for all the contributions, feedback, and support from each one of you. This project has not only helped me improve my Python skills but has also been a great opportunity to explore and learn more about computer systems.
-
-However, as the saying goes, all good things must come to an end. As I approach the final year of my school journey, I find myself needing to focus on my academic responsibilities and make room for new opportunities ahead. Therefore, I have decided to step back from actively maintaining this project.
-
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber (Note: The fork may have been archived or moved).
-
 I encourage you all to show your support to the community efforts.
 
 **This version (Ghost Grabber) has been fixed and maintained by:**
