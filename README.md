@@ -36,9 +36,9 @@ I'm happy to announce that noahmajors, one of the contributors to this project, 
 I encourage you all to show your support to the community efforts.
 
 **This version (Ghost Grabber) has been fixed and maintained by:**
-- **Brute (i8fz_)** — [Discord Profile](https://discord.com/users/1222274732095836303)  
+- [**Brute (i8fz_)**](https://discord.com/users/1222274732095836303)  
   ![Brute's Avatar](https://images-ext-1.discordapp.net/external/jVmhsYTuvAbjcGQ_92dvDwaN8O0Z7eZTm98nPtqITNo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1222274732095836303/2c88b3c33b346d70d27f6ba2fd6c9333.png?format=webp&quality=lossless&width=304&height=304)
-- **Waleed (wa1exd)** — [Discord Profile](https://discord.com/users/983019918138179684)  
+- [**Waleed (wa1exd)**](https://discord.com/users/983019918138179684)  
   ![Waleed's Avatar](https://images-ext-1.discordapp.net/external/_Em1egCwjCAIU36mE4xRl9v3h6Fo-ZNF5eoXGyFkjGA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/983019918138179684/97584e46c15ebc6a43e765921cb15166.png?format=webp&quality=lossless&width=462&height=462)
 
 Huge thanks to Brute and Waleed for fixing and continuing the project under the new name **Ghost Grabber**!
