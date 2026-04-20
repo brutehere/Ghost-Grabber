@@ -46,8 +46,6 @@ Huge thanks to Brute and Waleed for fixing and continuing the project under the 
 
 **Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
 
-**Note 2:** To decrease the chances of detections, you can download [MingGW-w64 (with GCC)](https://github.com/niXman/mingw-builds-binaries/releases/download/13.1.0-rt_v11-rev1/x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1.7z) and include the "bin" folder in the PATH variable.
-
 ## Features
 - GUI Builder.
 - UAC Bypass.
